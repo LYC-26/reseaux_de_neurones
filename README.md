@@ -28,8 +28,8 @@ classique vers l'anglais.
 - `pivot_translation.ipynb` : Processus complet d'entraînement des modèles
 - `evaluation_humaines.csv` : Résultats de l'évaluation humaine pour 
 comparer deux systèmes de traduction
-  1. **Modèle Pivot** : chinois classique → chinois moderne → anglais
-  2. **Modèle Direct** : chinois classique → anglais
-  > *Note : Deux évaluateurs ont examiné chacun un échantillon aléatoire 
+    * `Modèle Pivot` : chinois classique → chinois moderne → anglais
+    * `Modèle Direct` : chinois classique → anglais
+    > *Note : Deux évaluateurs ont examiné chacun un échantillon aléatoire 
 de 10 phrases distinctes (soit 20 phrases au total) avec un score de 1 à 5 
 pour calculer la moyenne.*
