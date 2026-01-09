@@ -33,3 +33,4 @@ comparer deux systèmes de traduction
     > *Note : Deux évaluateurs ont examiné chacun un échantillon aléatoire 
 de 10 phrases distinctes (soit 20 phrases au total) avec un score de 1 à 5 
 pour calculer la moyenne.*
+- `rapport.pdf` : Rapport détaillé du projet
