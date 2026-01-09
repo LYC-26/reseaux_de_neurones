@@ -1,5 +1,4 @@
-# Traduction automatique du Chinois classique vers l’Anglais: Comparaison
-Pivot vs Direct
+# Traduction automatique du Chinois classique vers l’Anglais: Comparaison Pivot vs Direct
 
 Ce projet explore la **traduction automatique neuronale** du chinois
 classique vers l'anglais.
@@ -28,7 +27,7 @@ classique vers l'anglais.
 - `best_w2e.keras` : Modèle chinois classique vers l’anglais
 - `pivot_translation.ipynb` : Processus complet d'entraînement des modèles
 - `evaluation_humaines.csv` : Résultats de l'évaluation humaine pour 
-comparer deux systèmes de traduction :
+comparer deux systèmes de traduction
   1. **Modèle Pivot** : chinois classique → chinois moderne → anglais
   2. **Modèle Direct** : chinois classique → anglais
   > *Note : Deux évaluateurs ont examiné chacun un échantillon aléatoire 
